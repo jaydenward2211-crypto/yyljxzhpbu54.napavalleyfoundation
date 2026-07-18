@@ -1,0 +1,6 @@
+{
+  "name": "Napa Valley College Foundation",
+  "description": "An elegant, multi-page web platform and donation portal for the Napa Valley College Foundation, supporting student success and academic excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
